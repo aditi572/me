@@ -14,7 +14,7 @@ img{
 	text-align:center;
 	margin-left:3%;
 width:96%;
-display:block;
+display:inline-block;
 }
 
 .right{
@@ -28,7 +28,7 @@ display:block;
 	font-size:135%;
 }
 .pad{
-padding:2%;}
+padding:5%;}
 button{
 	cursor:pointer;
 	padding-top:0.5%;
@@ -39,7 +39,7 @@ button{
 	padding-right:5%;
 }
 button:hover{
-background-color:blue;}
+background-color:lightblue;}
 footer{
 	padding-top:2%;
 	padding-bottom:2%;
@@ -49,8 +49,8 @@ footer{
 }
 
 .dec a{
-	font-size:200%;
-	padding:1%;
+	font-size:190%;
+	padding:2%;
 margin-left:12%;
 
  }
